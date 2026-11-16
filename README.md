@@ -69,7 +69,7 @@ Metadata-Based-Document-Authenticity-Verification/
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/mkanaswi/Metadata-Based-Document-Authenticity-Verification-System
 ```
 
 2. Navigate to the project directory:
@@ -102,4 +102,5 @@ This project is intended for educational and basic digital forensic analysis. Me
 
 ## Author
 
-Developed as an academic project.
+Manaswi k
+
